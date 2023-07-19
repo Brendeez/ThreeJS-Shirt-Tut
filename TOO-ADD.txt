@@ -1,0 +1,2 @@
+kanye quote api
+https://kanye.rest/
